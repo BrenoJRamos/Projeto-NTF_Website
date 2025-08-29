@@ -8,7 +8,7 @@ Este projeto foi desenvolvido durante meus estudos de HTML e CSS, com o objetivo
 
 O NFT_Website consiste em um site que simula uma página de vendas de NFTs (Non-Fungible Tokens), trazendo uma proposta moderna e inspirada em plataformas digitais do mercado de criptoativos.
 
-🔗 [**Acesse o site aqui**](https://brenojramos.github.io/Projeto-Cordel/)
+🔗 [**Acesse o site aqui**](https://brenojramos.github.io/Projeto-NTF_Website/)
 
 ---
 
